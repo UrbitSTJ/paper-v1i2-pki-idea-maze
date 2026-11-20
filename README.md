@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Designing a Permanent Personal Identity: The Public Key Infrastructure Maze
+
+Philip C. Monk ~wicdev-wisryt. *Urbit Systems Technical Journal* 1(2), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389616.svg)](https://doi.org/10.5281/zenodo.24389616) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i02/designing-a-permanent-personal-identity-the-public-key-infrastructure-maze)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
